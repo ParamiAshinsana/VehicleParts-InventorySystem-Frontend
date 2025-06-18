@@ -1,5 +1,6 @@
-# React + TypeScript + Vite
+# Vehicle Parts Inventory System
 
+![Screenshot 2025-06-18 113839](https://github.com/user-attachments/assets/e5f50538-f4df-466e-8338-6ad16bf148a4)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
